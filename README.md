@@ -1,0 +1,2 @@
+# libjrjs
+Javascript library
